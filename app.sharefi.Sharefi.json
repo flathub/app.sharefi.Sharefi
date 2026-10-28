@@ -73,30 +73,30 @@
         {
           "type": "archive",
           "only-arches": ["x86_64"],
-          "url": "https://github.com/lucafornerone/sharefi-electron/releases/download/v1.0.4/sharefi-1.0.4.tar.gz",
-          "sha256": "c9cb13a46c7a34eca327f4edded86985e177a97467b593e5bfd7fc6be8ed6e02",
+          "url": "https://github.com/lucafornerone/sharefi-electron/releases/download/v1.0.5/sharefi-1.0.5.tar.gz",
+          "sha256": "99a74855401657c485156002ac2d007fea01696a624a2cfa792eb8cf4053f963",
           "dest": "sharefi-app"
         },
         {
           "type": "archive",
           "only-arches": ["aarch64"],
-          "url": "https://github.com/lucafornerone/sharefi-electron/releases/download/v1.0.4/sharefi-1.0.4-arm64.tar.gz",
-          "sha256": "438b7f2424bab9a556aafac7d586b65c5195c5a12ebea78a909f0f65d2cac332",
+          "url": "https://github.com/lucafornerone/sharefi-electron/releases/download/v1.0.5/sharefi-1.0.5-arm64.tar.gz",
+          "sha256": "d8b4b644155ce4a50fc8073596401bb9d83c680b1a52351db83c2ab1eb72edfa",
           "dest": "sharefi-app"
         },
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/lucafornerone/sharefi-electron/refs/tags/v1.0.4/dist/release/build/flatpak/app.sharefi.Sharefi.desktop",
+          "url": "https://raw.githubusercontent.com/lucafornerone/sharefi-electron/refs/tags/v1.0.5/dist/release/build/flatpak/app.sharefi.Sharefi.desktop",
           "sha256": "c4a5f27f1739e5c101d9b02bd17891c27985999d8bb466f5b9d8a70d59697430"
         },
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/lucafornerone/sharefi-electron/refs/tags/v1.0.4/dist/release/build/flatpak/app.sharefi.Sharefi.metainfo.xml",
-          "sha256": "ee75ad0415175213e8965f7aad634a7100c53741921c2a666b4ac9345c782b4f"
+          "url": "https://raw.githubusercontent.com/lucafornerone/sharefi-electron/refs/tags/v1.0.5/dist/release/build/flatpak/app.sharefi.Sharefi.metainfo.xml",
+          "sha256": "dbb3b553290e1fd947e2e4f1632e3b86cd61fc45e06c49a49390abf66f2688bd"
         },
         {
           "type": "file",
-          "url": "https://raw.githubusercontent.com/lucafornerone/sharefi-electron/refs/tags/v1.0.4/dist/release/build/flatpak/app.sharefi.Sharefi.png",
+          "url": "https://raw.githubusercontent.com/lucafornerone/sharefi-electron/refs/tags/v1.0.5/dist/release/build/flatpak/app.sharefi.Sharefi.png",
           "sha256": "9be2ef13ccec9db45ff23b2955841198948cb594676bab8947ed446afb087d25"
         }
       ]
